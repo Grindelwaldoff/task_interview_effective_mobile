@@ -40,7 +40,7 @@ find_contact vsevolod rybnik
 
 ## Структура бд:
 Бд представляет из себя текстовый файл с данными в следующем порядке (что также указано в 1 строчке файла):
-* id surname name company privat_phone work_phone
+* id | surname | name | company | privat_phone | work_phone
 
 ## Время за которое был разработан данный алгоритм:
 4 часа
